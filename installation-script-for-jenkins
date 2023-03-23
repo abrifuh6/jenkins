@@ -25,4 +25,6 @@ sudo systemctl start jenkins
 #You can check the status of the Jenkins service using the command:
 sudo systemctl status jenkins
 
-#Switch user to see updated hostname
+#Change hostname and switch user to see updated hostname
+sudo hostnamectl set-hostname jenkins-automation
+sudo su - ec2-user
