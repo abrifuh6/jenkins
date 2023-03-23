@@ -1,4 +1,4 @@
-# Jenkins Installation.
+# Jenkins Installation on RHEL
 
 ### You can execute this script as user-data when launching your EC2 VM 
 
